@@ -1,4 +1,4 @@
-package com.ym.community;
+package com.ym.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
