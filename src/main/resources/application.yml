@@ -14,3 +14,7 @@ spring:
     username: root
     password: root
     driver-class-name: org.h2.Driver
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
